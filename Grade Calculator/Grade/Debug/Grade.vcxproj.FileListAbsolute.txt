@@ -1,0 +1,2 @@
+D:\Coding\C++\Grade Calculator\Grade\Debug\Grade.exe
+D:\Coding\C++\Grade Calculator\Grade\Debug\Grade.pdb

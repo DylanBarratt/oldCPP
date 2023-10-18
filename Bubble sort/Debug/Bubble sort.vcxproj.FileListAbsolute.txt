@@ -1,0 +1,2 @@
+D:\Coding\C++\Bubble sort\Debug\Bubble sort.exe
+D:\Coding\C++\Bubble sort\Debug\Bubble sort.pdb
